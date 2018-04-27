@@ -1,0 +1,11 @@
+1 88
+ AmericanPan Salami Soudjouk Onion
+ Neopolitan HotPepper Onion
+ Neopolitan
+ softdrink
+2 85
+ Neopolitan Salami Soudjouk Onion
+ AmericanPan Salami Onion
+ Neopolitan
+ softdrink
+ softdrink

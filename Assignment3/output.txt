@@ -1,0 +1,33 @@
+Costumer Nurbuke created
+Costumer Antonio created
+Costumer Brooklyn created
+Costumer Zehra created
+Costumer Veli created
+Customer 33 Nurbuke removed
+AmericianPan pizza added to order 1
+Neopolitan pizza added to order 1
+Neopolitan pizza added to order 1
+Drink added to 1
+PayCheck for order 1
+    AmericanPan Salami Soudjouk Onion 13$
+    Neopolitan HotPepper Onion 13$
+    Neopolitan 10$
+    softdrink 1$
+    Total: 37
+Neopolitan pizza added to order 2
+AmericianPan pizza added to order 2
+Neopolitan pizza added to order 2
+Drink added to 2
+Drink added to 2
+PayCheck for order 2
+    Neopolitan Salami Soudjouk Onion 18$
+    AmericanPan Salami Onion 10$
+    Neopolitan 10$
+    softdrink 1$
+    softdrink 1$
+    Total: 40
+Costumer List:
+88 Antonio Giovanni 568-8964142
+84 Brooklyn Beckham 599-8964142
+85 Zehra BABA 599-8964142
+83 Veli Isıldak 599-8964142
